@@ -199,10 +199,25 @@ api/                   # Vercel deployment entry point
 
 ## Deployment
 
-### Vercel (Production)
-- Deploys automatically via GitHub Actions
-- Entry point: `api/index.ts`
-- Uses `bun run build` in CI pipeline
+The repository has automated deployment to both staging and production environments:
+
+### Staging Deployment (Automatic)
+- **Triggers**: Every push to `main` branch and pull requests
+- **Workflow**: `.github/workflows/ci.yaml`
+- **Platform**: Vercel staging environment
+- **Process**: `bun install` → Vercel deployment (no build step required)
+
+### Production Deployment (Automatic)
+- **Triggers**: When git tags are pushed (e.g., `git tag v1.0.1 && git push origin v1.0.1`)
+- **Workflow**: `.github/workflows/release.yaml`
+- **Platform**: Vercel production environment
+- **Process**: `bun install` → Vercel deployment
+
+### Technical Configuration
+- **Entry point**: `api/index.ts` (Vercel-compatible Hono Node.js adapter)
+- **Configuration**: `vercel.json` handles routing, headers, and deployment settings
+- **Authentication**: Uses Vercel secrets configured in GitHub repository settings
+- **Runtime**: Bun in CI pipeline, Node.js adapter for Vercel compatibility
 
 ### Local Deployment Testing
 ```bash
