@@ -47,7 +47,7 @@ export interface Exercise {
 
   /**
    * Step-by-step instructions to perform the exercise.
-   * @example ["Step:1 Stand with your feet shoulder-width apart and place the band under your feet, holding the ends with your hands..."]
+   * @example ["Stand with your feet shoulder-width apart and place the band under your feet, holding the ends with your hands..."]
    */
   instructions: string[]
 }
