@@ -5403,33 +5403,6 @@
     ]
   },
   {
-    "exerciseId": "Pjbc0Kt",
-    "name": "resistance band hip thrusts on knees (female)",
-    "gifUrl": "https://static.exercisedb.dev/media/Pjbc0Kt.gif",
-    "targetMuscles": [
-      "glutes"
-    ],
-    "bodyParts": [
-      "upper legs"
-    ],
-    "equipments": [
-      "resistance band"
-    ],
-    "secondaryMuscles": [
-      "hamstrings",
-      "quadriceps"
-    ],
-    "instructions": [
-      "Start by kneeling on the ground with your knees hip-width apart and your feet flexed.",
-      "Wrap the resistance band around your thighs, just above your knees.",
-      "Place your hands on your hips or extend them out in front of you for balance.",
-      "Engage your glutes and core muscles.",
-      "Push your hips forward and squeeze your glutes as you lift your knees off the ground, extending your hips until your thighs are parallel to the ground.",
-      "Hold the position for a moment, then slowly lower your knees back down to the starting position.",
-      "Repeat for the desired number of repetitions."
-    ]
-  },
-  {
     "exerciseId": "DU7I633",
     "name": "barbell reverse grip incline bench press",
     "gifUrl": "https://static.exercisedb.dev/media/DU7I633.gif",
@@ -10678,32 +10651,6 @@
       "Pause for a moment at the top of the movement, squeezing your hamstrings.",
       "Inhale and slowly lower your legs back to the starting position, fully extending your knees.",
       "Repeat for the desired number of repetitions."
-    ]
-  },
-  {
-    "exerciseId": "yT9tk17",
-    "name": "twisted leg raise (female)",
-    "gifUrl": "https://static.exercisedb.dev/media/yT9tk17.gif",
-    "targetMuscles": [
-      "abs"
-    ],
-    "bodyParts": [
-      "waist"
-    ],
-    "equipments": [
-      "body weight"
-    ],
-    "secondaryMuscles": [
-      "obliques",
-      "hip flexors"
-    ],
-    "instructions": [
-      "Lie flat on your back with your legs extended and your arms by your sides.",
-      "Bend your knees and lift your legs off the ground, bringing them towards your chest.",
-      "As you lift your legs, twist your hips to one side, bringing your knees towards your opposite shoulder.",
-      "Pause for a moment at the top, then slowly lower your legs back down to the starting position.",
-      "Repeat the movement, this time twisting your hips to the other side.",
-      "Continue alternating sides for the desired number of repetitions."
     ]
   },
   {
@@ -31187,31 +31134,6 @@
     ]
   },
   {
-    "exerciseId": "BCs0G2F",
-    "name": "barbell sitted alternate leg raise (female)",
-    "gifUrl": "https://static.exercisedb.dev/media/BCs0G2F.gif",
-    "targetMuscles": [
-      "abs"
-    ],
-    "bodyParts": [
-      "waist"
-    ],
-    "equipments": [
-      "barbell"
-    ],
-    "secondaryMuscles": [
-      "hip flexors",
-      "quadriceps"
-    ],
-    "instructions": [
-      "Sit on a bench with your back straight and hold a barbell across your thighs.",
-      "Place your hands on the sides of the bench for support.",
-      "Keeping your legs straight, lift one leg up as high as possible while keeping it parallel to the ground.",
-      "Lower the leg back down and repeat with the other leg.",
-      "Continue alternating legs for the desired number of repetitions."
-    ]
-  },
-  {
     "exerciseId": "jtFKbt5",
     "name": "ez barbell seated curls",
     "gifUrl": "https://static.exercisedb.dev/media/jtFKbt5.gif",
@@ -33175,33 +33097,6 @@
       "Push the footplate away from you by extending your legs, keeping your back against the backrest.",
       "Pause for a moment at the fully extended position.",
       "Slowly bend your knees and lower the footplate back towards you, returning to the starting position.",
-      "Repeat for the desired number of repetitions."
-    ]
-  },
-  {
-    "exerciseId": "Nh3mvOO",
-    "name": "dumbbell reverse grip row (female)",
-    "gifUrl": "https://static.exercisedb.dev/media/Nh3mvOO.gif",
-    "targetMuscles": [
-      "upper back"
-    ],
-    "bodyParts": [
-      "back"
-    ],
-    "equipments": [
-      "dumbbell"
-    ],
-    "secondaryMuscles": [
-      "biceps",
-      "forearms"
-    ],
-    "instructions": [
-      "Stand with your feet shoulder-width apart and knees slightly bent.",
-      "Hold a dumbbell in each hand with an overhand grip, palms facing your body.",
-      "Bend forward at the waist, keeping your back straight and your core engaged.",
-      "Let your arms hang straight down, fully extended, with a slight bend in your elbows.",
-      "Pull the dumbbells up towards your chest, squeezing your shoulder blades together.",
-      "Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.",
       "Repeat for the desired number of repetitions."
     ]
   },
@@ -36122,32 +36017,6 @@
     ]
   },
   {
-    "exerciseId": "6Wr0F3W",
-    "name": "rounded twisted leg raise (female)",
-    "gifUrl": "https://static.exercisedb.dev/media/6Wr0F3W.gif",
-    "targetMuscles": [
-      "abs"
-    ],
-    "bodyParts": [
-      "waist"
-    ],
-    "equipments": [
-      "body weight"
-    ],
-    "secondaryMuscles": [
-      "obliques",
-      "hip flexors"
-    ],
-    "instructions": [
-      "Lie flat on your back with your legs extended and your arms by your sides.",
-      "Bend your knees and lift your legs off the ground, bringing them towards your chest. Emphasize rounded control.",
-      "As you lift your legs, twist your hips to one side, bringing your knees towards your opposite shoulder.",
-      "Pause for a moment at the top, then slowly lower your legs back down to the starting position.",
-      "Repeat the movement, this time twisting your hips to the other side.",
-      "Continue alternating sides for the desired number of repetitions."
-    ]
-  },
-  {
     "exerciseId": "FSF9WOs",
     "name": "wide-grip chest dip on high parallel bars - low variation",
     "gifUrl": "https://static.exercisedb.dev/media/FSF9WOs.gif",
@@ -36944,31 +36813,6 @@
     ]
   },
   {
-    "exerciseId": "ntjtCfu",
-    "name": "barbell sitted alternate leg raise (female) with intermediate",
-    "gifUrl": "https://static.exercisedb.dev/media/ntjtCfu.gif",
-    "targetMuscles": [
-      "abs"
-    ],
-    "bodyParts": [
-      "waist"
-    ],
-    "equipments": [
-      "barbell"
-    ],
-    "secondaryMuscles": [
-      "hip flexors",
-      "quadriceps"
-    ],
-    "instructions": [
-      "Sit on a bench with your back straight and hold a barbell across your thighs.",
-      "(intermediate variation) Place your hands on the sides of the bench for support.",
-      "Keeping your legs straight, lift one leg up as high as possible while keeping it parallel to the ground.",
-      "Lower the leg back down and repeat with the other leg.",
-      "Continue alternating legs for the desired number of repetitions."
-    ]
-  },
-  {
     "exerciseId": "kk39rUy",
     "name": "push-up to side plank - athletic variation",
     "gifUrl": "https://static.exercisedb.dev/media/kk39rUy.gif",
@@ -37598,33 +37442,6 @@
       "Raise your arms to shoulder height, keeping your elbows slightly bent.",
       "(athletic variation) Begin making alternating waves with the ropes by rapidly raising and lowering each arm.",
       "Continue for the desired duration or number of repetitions."
-    ]
-  },
-  {
-    "exerciseId": "KQfySvS",
-    "name": "dumbbell reverse grip row (female) hold",
-    "gifUrl": "https://static.exercisedb.dev/media/KQfySvS.gif",
-    "targetMuscles": [
-      "upper back"
-    ],
-    "bodyParts": [
-      "back"
-    ],
-    "equipments": [
-      "dumbbell"
-    ],
-    "secondaryMuscles": [
-      "biceps",
-      "forearms"
-    ],
-    "instructions": [
-      "Stand with your feet shoulder-width apart and knees slightly bent.",
-      "Hold a dumbbell in each hand with an overhand grip, palms facing your body. Perform with hold intensity.",
-      "Bend forward at the waist, keeping your back straight and your core engaged.",
-      "Let your arms hang straight down, fully extended, with a slight bend in your elbows.",
-      "Pull the dumbbells up towards your chest, squeezing your shoulder blades together.",
-      "Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.",
-      "Repeat for the desired number of repetitions."
     ]
   },
   {
